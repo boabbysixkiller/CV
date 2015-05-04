@@ -4,3 +4,8 @@ header{
 	color: #fff;
 	font-size: 140%
 }
+
+main{
+	margin: 0 auto;
+	max-width: 50em
+}
